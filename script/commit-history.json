@@ -76,12 +76,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "cf75a84dd3fe25c67beafa6092c9823f47b1c4bf",
     "author": "lPatrickll",
     "commit": {
       "date": "2025-06-13T14:38:08.000Z",
       "message": "Se realizo un cambio para los multiplos de 3",
-      "url": "https://github.com/PatrickGQ/fizzbuzz-pruebaTaller/commit/HEAD"
+      "url": "https://github.com/PatrickGQ/fizzbuzz-pruebaTaller/commit/cf75a84dd3fe25c67beafa6092c9823f47b1c4bf"
     },
     "stats": {
       "total": 2,
@@ -91,6 +91,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "lPatrickll",
+    "commit": {
+      "date": "2025-06-13T14:40:03.000Z",
+      "message": "Se realizo un cambio para los multiplos de 5",
+      "url": "https://github.com/PatrickGQ/fizzbuzz-pruebaTaller/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 6,
+      "deletions": 0,
+      "date": "2025-06-13"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }

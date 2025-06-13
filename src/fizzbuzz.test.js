@@ -12,4 +12,8 @@ describe("FizzBuzz", () => {
   it("deberia mostrar fizz porque es multiplo de 3", () => {
     expect(fizzbuzz(3)).toEqual("fizz");
   });
+
+  it("deberia mostrar buzz porque es multiplo de 5", () => {
+    expect(fizzbuzz(5)).toEqual("buzz");
+  });
 });
