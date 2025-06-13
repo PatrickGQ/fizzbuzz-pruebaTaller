@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "lPatrickll",
+    "commit": {
+      "date": "2025-06-13T14:23:41.000Z",
+      "message": "Se agrego la funcion fizzbuzz",
+      "url": "https://github.com/PatrickGQ/fizzbuzz-pruebaTaller/commit/HEAD"
+    },
+    "stats": {
+      "total": 18,
+      "additions": 9,
+      "deletions": 9,
+      "date": "2025-06-13"
+    },
+    "coverage": 0,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
