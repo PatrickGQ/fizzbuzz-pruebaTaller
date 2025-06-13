@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "61406398a3d05f460570e023d35d61887a6f10ec",
     "author": "lPatrickll",
     "commit": {
       "date": "2025-06-13T14:23:41.000Z",
       "message": "Se agrego la funcion fizzbuzz",
-      "url": "https://github.com/PatrickGQ/fizzbuzz-pruebaTaller/commit/HEAD"
+      "url": "https://github.com/PatrickGQ/fizzbuzz-pruebaTaller/commit/61406398a3d05f460570e023d35d61887a6f10ec"
     },
     "stats": {
       "total": 18,
@@ -15,6 +15,25 @@
     },
     "coverage": 0,
     "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "lPatrickll",
+    "commit": {
+      "date": "2025-06-13T14:28:43.000Z",
+      "message": "Se cambio la funcion para q devolviera un string",
+      "url": "https://github.com/PatrickGQ/fizzbuzz-pruebaTaller/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 6,
+      "deletions": 7,
+      "date": "2025-06-13"
+    },
+    "coverage": 0,
+    "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
   }
