@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "8c2bd7fa2665aee1bdb2b6eaeee3fe2bb4d678ec",
     "author": "lPatrickll",
     "commit": {
       "date": "2025-06-13T14:28:43.000Z",
       "message": "Se cambio la funcion para q devolviera un string",
-      "url": "https://github.com/PatrickGQ/fizzbuzz-pruebaTaller/commit/HEAD"
+      "url": "https://github.com/PatrickGQ/fizzbuzz-pruebaTaller/commit/8c2bd7fa2665aee1bdb2b6eaeee3fe2bb4d678ec"
     },
     "stats": {
       "total": 13,
@@ -33,6 +33,25 @@
       "date": "2025-06-13"
     },
     "coverage": 0,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "lPatrickll",
+    "commit": {
+      "date": "2025-06-13T14:31:14.000Z",
+      "message": "refactoring: Se movio la funcion a un archivo nuevo",
+      "url": "https://github.com/PatrickGQ/fizzbuzz-pruebaTaller/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 6,
+      "deletions": 5,
+      "date": "2025-06-13"
+    },
+    "coverage": 100,
     "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
