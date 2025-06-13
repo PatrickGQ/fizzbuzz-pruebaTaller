@@ -8,4 +8,8 @@ describe("FizzBuzz", () => {
   it("deberia mostrar el 2", () => {
     expect(fizzbuzz(2)).toEqual("2");
   });
+
+  it("deberia mostrar fizz porque es multiplo de 3", () => {
+    expect(fizzbuzz(3)).toEqual("fizz");
+  });
 });

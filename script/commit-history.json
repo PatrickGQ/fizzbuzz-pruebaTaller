@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "6551c935ea8919daadda2d042709f08bac8a3e88",
     "author": "lPatrickll",
     "commit": {
       "date": "2025-06-13T14:31:14.000Z",
       "message": "refactoring: Se movio la funcion a un archivo nuevo",
-      "url": "https://github.com/PatrickGQ/fizzbuzz-pruebaTaller/commit/HEAD"
+      "url": "https://github.com/PatrickGQ/fizzbuzz-pruebaTaller/commit/6551c935ea8919daadda2d042709f08bac8a3e88"
     },
     "stats": {
       "total": 11,
@@ -55,5 +55,24 @@
     "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "lPatrickll",
+    "commit": {
+      "date": "2025-06-13T14:36:25.000Z",
+      "message": "Se hizo un push con un error en las pruebas",
+      "url": "https://github.com/PatrickGQ/fizzbuzz-pruebaTaller/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2025-06-13"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
